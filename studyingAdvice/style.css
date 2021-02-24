@@ -1,0 +1,19 @@
+body {
+  background-color: cornsilk;
+}
+h1 {
+  color: cornsilk;
+  background-color: maroon;
+}
+h2 {
+  color: maroon;
+}
+.red {
+  color: red;
+  font-weight: bold;
+}
+cite {
+  text-align: right;
+  position: relative;
+  left: 50px;
+}

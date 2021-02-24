@@ -1,0 +1,12 @@
+.red {
+  font-weight: bold;
+  color: darkRed;
+}
+
+.green {
+  font-style: italic;
+  color: limegreen;
+}
+body {
+  background-color: ivory;
+}
